@@ -15,7 +15,7 @@ Python, OpenCV, NumPy, Tkinter, SQLite, openpyxl
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR-USERNAME/face-attendance-system.git
+git clone https://github.com/zohaibktk380-lang/face-attendance-system.git
 cd face-attendance-system
 python -m venv venv
 venv\Scripts\activate
