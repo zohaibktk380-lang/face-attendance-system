@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+attendance.db
+attendance.csv
+attendance_report_*.xlsx
+known_faces/
+haarcascade_frontalface_default.xml
